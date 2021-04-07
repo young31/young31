@@ -7,8 +7,7 @@
 ### Interest
 - GAN
 - FDS / Anomlay Detection
-
-If you can't explain it simply, you don't understand it properly.
+- Recommender System
 <!--
 **young31/young31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
