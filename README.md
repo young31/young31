@@ -8,7 +8,22 @@
 - GAN
 - FDS / Anomlay Detection
 - Recommender System
-<!--
+
+### Contest
+
+-   Newbie in ML, DL
+
+| Name                                  | Platform | Date                    | Rank     |        |
+| ------------------------------------- | -------- | ----------------------- | -------- | ------ |
+| AIRUSH                                | NAVER    | 2021.05.17 ~            |          |        |
+| 인공지능 비트 트레이더 경진대회       | DACON    | 2021.03.08 ~ 2021.03.31 | 1 / 159  |        |
+| 제2회 팩토리핵 코리아                 | KETI     | 2021.01.08 ~ 2021.01.15 | 1 / 18   | 우수상 |
+| 태양광 발전량 예측 AI 경진대회        | DACON    | 2020.12.09 ~ 2021.01.26 | 22 / 461 |        |
+| 심리 성향 예측 AI 경진대회            | DACON    | 2020.09.28 ~ 2020.11.16 | 20 / 581 |        |
+| 행동 데이터 분석 인공지능 AI 경진대회 | DACON    | 2020.03.01 ~ 2020.04.15 | 23 / 94  |        |
+| 천체 유형 분류 대회                   | DACON    | 2020.02.01 ~ 2020.02.29 | 44/352   |        |
+
+- <!--
 **young31/young31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
