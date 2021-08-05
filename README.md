@@ -24,9 +24,13 @@
 | 행동 데이터분석 인공지능 AI 경진대회 |  DACON   | 2020.03.01 ~ 2020.04.15 |      23 / 94       |        |
 |         천체 유형 분류 대회          |  DACON   | 2020.02.01 ~ 2020.02.29 |       44/352       |        |
 
+---
+<2021.08.05>
 
-<2021.07.26>
-![image](https://user-images.githubusercontent.com/50350197/126956093-ed525b95-badd-4d69-9c59-3c8f706f71ba.png)
+![image](https://user-images.githubusercontent.com/50350197/128319452-5de537c7-8b7c-4e67-bb6b-5d30ee29cf92.png)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudgus7732)](https://solved.ac/dudgus7732)
 
 <!--
 **young31/young31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
