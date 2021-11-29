@@ -25,9 +25,6 @@
 |         천체 유형 분류 대회          |  DACON   | 2020.02.01 ~ 2020.02.29 |       44/352       |        |
 
 ---
-<2021.08.05>
-
-![image](https://user-images.githubusercontent.com/50350197/128319452-5de537c7-8b7c-4e67-bb6b-5d30ee29cf92.png)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudgus7732)](https://solved.ac/dudgus7732)
